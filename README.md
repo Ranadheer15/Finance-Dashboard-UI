@@ -32,19 +32,10 @@ npm run dev
 ```
 Then open `http://localhost:5173/`
 
-
-
 ## Usage
 
-**Viewer** – See all data, search transactions
+**Viewer** – See all data, search transactions  
 **Admin** – Add/edit transactions, plus all viewer features
 
 Switch roles using the dropdown at the top of the dashboard.
-
-## Tech Stack
-
-- React 18
-- Vite
-- Tailwind CSS
-- React Context API
 
